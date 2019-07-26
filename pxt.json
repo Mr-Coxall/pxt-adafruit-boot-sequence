@@ -15,5 +15,7 @@
         "test.ts"
     ],
     "public": false,
-    "license": "MIT"
+    "license": "MIT",
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:dc5674cc-8fcb-4bc3-ca5e-1e97a4265f00"
 }
