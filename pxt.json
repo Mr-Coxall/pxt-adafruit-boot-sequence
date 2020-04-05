@@ -2,6 +2,7 @@
     "name": "adafruit-boot-sequence",
     "version": "0.0.3",
     "description": "",
+    "license": "MIT",
     "dependencies": {
         "device": "*",
         "palette": "*",
@@ -9,13 +10,14 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "sequence.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "license": "MIT",
-    "preferredEditor": "tsprj",
-    "installedVersion": "workspace:a1f4377e-4122-4304-1abe-b389ecccd228"
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }
