@@ -5,7 +5,7 @@
 
 Register this boot sequence to see the Adafruit logo.
 
-* [Demo](https://adafruit.github.io/adafruit-boot-sequence)
+* [Demo](https://adafruit.github.io/pxt-adafruit-boot-sequence)
 
 ## Usage
 
